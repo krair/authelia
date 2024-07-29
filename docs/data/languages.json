@@ -384,7 +384,8 @@
             "display": "Vietnamese",
             "locale": "vi",
             "namespaces": [
-                "portal"
+                "portal",
+                "settings"
             ],
             "fallbacks": [
                 "en"
@@ -394,7 +395,8 @@
             "display": "Vietnamese (Vietnam)",
             "locale": "vi-VN",
             "namespaces": [
-                "portal"
+                "portal",
+                "settings"
             ],
             "fallbacks": [
                 "vi",
